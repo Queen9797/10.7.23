@@ -1,0 +1,25 @@
+
+img {
+    float: left;
+  }
+  table {
+  border: 2px solid rgb(199, 37, 118); width: 25%;
+  }
+  th {
+  border: 2px solid rgb(199, 37, 118);
+  
+  }
+  td {
+  border: 2px solid rgb(73, 184, 114);
+  text-align: center;
+  }
+  
+  th:hover {
+  background-color: rgb(199, 37, 118);
+  }
+
+  tr:hover {
+  background-color: rgb(73, 184, 114);
+  } 
+  
+  #students tr:nth-child(even){background-color: #9b8b8b;}
